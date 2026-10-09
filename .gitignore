@@ -1,0 +1,15 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+*.egg-info/
+.pytest_cache/
+
+# 本地数据库/测试产物
+*.db
+*.sqlite
+test_pipeline.db
+
+# 环境
+.env

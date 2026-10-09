@@ -1,0 +1,11 @@
+fastapi
+uvicorn[standard]
+celery[redis]
+redis
+SQLAlchemy>=2.0
+psycopg2-binary
+psycopg[binary]
+pydantic
+Jinja2
+pytest
+httpx
